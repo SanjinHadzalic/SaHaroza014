@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjin</h1>
-<h3 align="center">I'm a computer science student located in Zagreb, Croatia.</h3>
+<h4 align="left">I'm a computer science student located in Zagreb, Croatia.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharoza014&label=Profile%20views&color=0e75b6&style=flat" alt="saharoza014" /> </p>
 --!>
