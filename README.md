@@ -4,7 +4,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharoza014&label=Profile%20views&color=0e75b6&style=flat" alt="saharoza014" /> </p>
 --!>
 
-<p align="left">I'm currently learning Python and Django.
+<p align="left">I'm currently learning SQL, Python and Django.
 <p align="left">Currently looking for a junior developer job
 
 <h3 align="left">Connect with me:</h3>
