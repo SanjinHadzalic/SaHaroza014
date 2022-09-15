@@ -6,7 +6,7 @@
 
 <p align="left">I'm currently learning SQL, Python and Flask.
 <p align="left">In near future, I would like to improve my knowledge of pandas and tkinter modules of Python3, and learn Django and Git.
-<p align="left">On a lookout for a junior developer job :-)
+<p align="left">On a lookout for an entry-level job or Internship Programme
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
