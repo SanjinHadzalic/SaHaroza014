@@ -4,7 +4,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharoza014&label=Profile%20views&color=0e75b6&style=flat" alt="saharoza014" /> </p>
 --!>
 
-<p align="left">I'm currently learning SQL, Python and Flask.
+<p align="left">I'm currently learning PL/SQL, Python and Flask framework.
 <p align="left">In near future, I would like to improve my knowledge of pandas and tkinter modules of Python3, and learn Django and Git.
 <p align="left">On a lookout for an entry-level job or Internship Programme
 
