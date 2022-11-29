@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharoza014&label=Profile%20views&color=0e75b6&style=flat" alt="saharoza014" /> </p>
 
-
-<p align="left">I'm currently learning Flask framework in Python.
-<p align="left">In near future, I would like to improve my knowledge of pandas and flask modules in Python3, and learn Django and Git.
+<b>Currently learning:</b><br>
+<p align="left">Flask microframework for Python and Java 19.<br><br>
+  <b>Want to learn: </b>
+<p align="left">Django(Python), Git, React Framweork, GraphQL (with React), JS Unit Testing, Next.js, Cloud Computing, Docker, bash commands.<br><br>
+  <b>Goal:</b>
 <p align="left">On a lookout for an entry-level job or Internship Programme
 
 <h3 align="left">Connect with me:</h3>
