@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjin</h1>
 <h4 align="left">I'm a computer science student located in Zagreb, Croatia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharoza014&label=Profile%20views&color=0e75b6&style=flat" alt="saharoza014" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharoza014&label=Profile%20views&color=0e75b6&style=flat" alt="saharoza014" /> </p> -->
 
 <b>Currently learning:</b><br>
 <p align="left">Flask microframework for Python and Java 19.<br><br>
