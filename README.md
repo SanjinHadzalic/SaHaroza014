@@ -6,7 +6,7 @@
 <b>Currently learning:</b><br>
 <p align="left">the ins and outs of Java...<br><br>
   <b>Want to learn: </b>
-<p align="left">Git, Angular Framweork, Spring framework, Docker, Git, bash commands.<br><br>
+<p align="left">Git, Angular framework, Spring framework, Docker, Git, bash commands.<br><br>
   <b>Goal:</b>
 <p align="left">On a lookout for an entry-level job or Internship Programme
 
